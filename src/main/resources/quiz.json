@@ -1,0 +1,242 @@
+[
+  {
+    "answerKey": 4,
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "sanity",
+    "option 4": "smoke",
+    "question": "what developers do?",
+    "option 1": "unit",
+    "option 2": "regression"
+  },
+  {
+    "answerKey": 2,
+    "option 3": "blckbox",
+    "option 4": "sanity",
+    "question": "what should be done if no documents provided?",
+    "option 1": "whitebox",
+    "option 2": "exploaratory"
+  },
+  {
+    "answerKey": 4,
+    "option 3": "Test Case",
+    "option 4": "Project Initiation Note [PIN]",
+    "question": "Which of the following is not part of the Test document?",
+    "option 1": "Requirements Traceability Matrix [RTM]",
+    "option 2": "Test strategy"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "Finding broken code",
+    "option 4": "A stage of all projects",
+    "question": "Which term is used to define testing?",
+    "option 1": "Evaluating deliverable to find errors",
+    "option 2": "None of the above"
+  },
+  {
+    "answerKey": 4,
+    "option 3": "Requirement Phase",
+    "option 4": "Testing closure",
+    "question": "Which of the following is not a valid phase of SDLC (Software Development Life Cycle)?",
+    "option 1": "Deployment phase",
+    "option 2": "Testing Phase"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "None of the above",
+    "option 4": "Design based testing",
+    "question": "Which of the following testing is also known as white-box testing?",
+    "option 1": "Structural testing",
+    "option 2": "Error guessing technique"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "Black box testing",
+    "option 4": "None of the above",
+    "question": "Which of the following testing is related to the boundary value analysis?",
+    "option 1": "White-box testing",
+    "option 2": "White box and black box testing"
+  },
+  {
+    "answerKey": 4,
+    "option 3": "SDLC Model",
+    "option 4": "Test type",
+    "question": "Functional testing is a ------?",
+    "option 1": "Test level",
+    "option 2": "Test design technique"
+  },
+  {
+    "answerKey": 4,
+    "option 3": "System testing",
+    "option 4": "All of the above",
+    "question": "What are the different levels of Testing?",
+    "option 1": "Integration testing",
+    "option 2": "Unit testing"
+  },
+  {
+    "answerKey": 2,
+    "option 3": "User's and developer's end",
+    "option 4": "None of the above",
+    "question": "In which environment we can performed the Alpha testing?",
+    "option 1": "User's end",
+    "option 2": "Developer's end"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "Incident reports",
+    "option 4": "Entry and exit criteria",
+    "question": "Which of the below is not a part of the Test Plan?",
+    "option 1": "Schedule",
+    "option 2": "Risk"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "Basic path testing",
+    "option 4": "None of the above",
+    "question": "Which of the below testing is related to black-box testing?",
+    "option 1": "Boundary value analysis",
+    "option 2": "Code path analysis"
+  },
+  {
+    "answerKey": 2,
+    "option 3": "Grey box testing",
+    "option 4": "Alpha testing",
+    "question": "Which of the following testing is also called Acceptance testing?",
+    "option 1": "Beta testing",
+    "option 2": "White-box testing"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "White-box testing",
+    "option 4": "Red box testing",
+    "question": "-------- testing is used to check the code?",
+    "option 1": "Grey box testing",
+    "option 2": "Black box testing"
+  },
+  {
+    "answerKey": 2,
+    "option 3": "Additional tests that emphasize software functions, which are likely to be affected by the change.",
+    "option 4": "A representative sample of tests, which will exercise all software functions.",
+    "question": "The Regression test case is not a --------?",
+    "option 1": "ests that focus on the software components, which have been modified.",
+    "option 2": "Low-level components are combined into clusters, which perform a specific software sub-function."
+  },
+  {
+    "answerKey": 2,
+    "option 3": "Comparison of different data types",
+    "option 4": "All of the above",
+    "question": "Which of the following statement is used to discover errors in the test case?",
+    "option 1": "Incorrect logical operators or precedence",
+    "option 2": "Non-existent loop termination"
+  },
+  {
+    "answerKey": 2,
+    "option 3": "Gray Box Test Design Technique",
+    "option 4": "Experience-based Test Design Technique",
+    "question": "The Decision table testing is a ----------?",
+    "option 1": "White box Test Design Technique",
+    "option 2": "Black Box Test Design Technique"
+  },
+  {
+    "answerKey": 4,
+    "option 3": "The time completed",
+    "option 4": "The risk is resolved",
+    "question": "When we have to stop the testing?",
+    "option 1": "The faults have been fixed",
+    "option 2": "All the tests run"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "Error guessing",
+    "option 4": "Walkthrough",
+    "question": "Which of the following is not a valid software testing technique?",
+    "option 1": "Inspections",
+    "option 2": "Data flow analysis"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "Software",
+    "option 4": "None of the mentioned",
+    "question": "Which quality is measured as a foundation of requirement?",
+    "option 1": "Hardware",
+    "option 2": " Programmers"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "Evaluations to be performed",
+    "option 4": "Documents that are produced by the SQA team",
+    "question": "Select which option is not true about SQA?",
+    "option 1": "Audits and reviews to be performed by the team",
+    "option 2": "Amount of technical work to be performed"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "Quality Assurance",
+    "option 4": "None of the above",
+    "question": "A product which is manufactured by using the degree of the design specification?",
+    "option 1": "Quality of conformance",
+    "option 2": "Quality Control"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "test equipment reviews",
+    "option 4": "quality planning reviews",
+    "question": "Which of the following is not included in prevention cost?",
+    "option 1": "equipment calibration and maintenance",
+    "option 2": "formal technical reviews"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "errors",
+    "option 4": "none of the mentioned",
+    "question": "Select what is the primary objective of formal technical reviews to find during the process so that after the release of the software they do not become the defect?",
+    "option 1": "failure",
+    "option 2": "faults"
+  },
+  {
+    "answerKey": 2,
+    "option 3": "Project team",
+    "option 4": "All of the mentioned",
+    "question": "Select the people who identify the document and verifies the correctness of the software?",
+    "option 1": "Project manager",
+    "option 2": "SQA team"
+  },
+  {
+    "answerKey": 4,
+    "option 3": "testing",
+    "option 4": "quality planning",
+    "question": "Select the option which is not an appraisal in SQA?",
+    "option 1": "inter-process inspection",
+    "option 2": "maintenance"
+  },
+  {
+    "answerKey": 4,
+    "option 3": "Concatenated Loops",
+    "option 4": "All of the above",
+    "question": "Loop Testing methodology includes which of the following?",
+    "option 1": "Simple Loops",
+    "option 2": "Nested Loops"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "planning",
+    "option 4": "Check Exit criteria completion",
+    "question": "Faults are found most cost-effectively in which test activity?",
+    "option 1": "design",
+    "option 2": "execution"
+  }
+]
