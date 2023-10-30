@@ -1,4 +1,4 @@
-# MCQ-Test-Java_Project-JSON_Manipulation
+# MCQ-Test-Java-Project-JSON-Manipulation
 ## About this project:
 ### In this software system, admin can save multiple MCQ with 4 options with their answer key in a "quiz.json" file. And, when any student logs in to the system, system will tell the student to give MCQ exam from the quiz bank.
 ### When a user logs in by admin credential, system will say the admin user to add new questions to question bank and if any user logs in by student credential, system will say the user to give quiz.
